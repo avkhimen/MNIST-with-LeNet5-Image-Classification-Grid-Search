@@ -14,4 +14,4 @@ The following parameters were varied:
 
 To run the code in terminal do:
 
-python final_main.py
+python main_final.py
