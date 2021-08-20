@@ -15,3 +15,5 @@ The following parameters were varied:
 To run the code in terminal do:
 
 python main_final.py
+
+To change the dataset being worked on adjust the `dataset` variable between *mnist* and *fashion_mnist*
